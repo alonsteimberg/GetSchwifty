@@ -1,4 +1,4 @@
 export const BoardType = {
-    Numeric : "1",
-    Photo : "2"
+    Numeric: "1",
+    Photo: "2"
 }
